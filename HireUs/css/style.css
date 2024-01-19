@@ -1,0 +1,943 @@
+body{
+    background-color: #0c0c0c;
+    overflow-y: scroll;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.list-of-jobs{
+    list-style: decimal;
+    padding-left: 18px;
+}
+.our-descrip{
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.list-of-contact-methods{
+    list-style: decimal;
+    padding-left: 18px;
+}
+
+.btnh3 {
+    background-color: rgb(15, 51, 255);
+    color: white;
+    padding: 5px 17px 5px 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0 auto;
+
+}
+
+.career-buttonX2{
+    display: inline-block;
+}
+
+.career-buttonX{
+    display: inline-block;
+}
+
+
+
+.our-purpouse{
+    color: white;
+    text-align: left;
+    font-weight: 700;
+
+}
+.contact-us{
+    color: white;
+    text-align: left;
+    font-weight: 700;
+}
+
+.about-us{
+    color: white;
+    text-align: left;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.lockups-shape{
+    margin: auto;
+    text-align: center;
+    width: 350px;
+
+}
+
+
+
+
+
+.m-version{
+    display: none;
+}
+.our-purpouse {
+    display: none;
+}
+.contact-us{
+    display: none;
+}
+.about-us{
+    display: none;
+}
+
+
+
+
+
+
+
+.header {
+    padding: 15px 35px 25px 35px;
+    text-align: center;
+}
+#row-line{
+    border-top: 1px solid #282828;
+
+}
+.shield{
+    margin-top: 10px;
+}
+
+.logo {
+    display: inline-block;
+   margin-top: 15px;
+}
+
+.hire-us{
+    border-left:1px solid #282828;
+
+}
+
+.your-next-inr-exp{
+    padding: 45px;
+}
+
+.color-white{
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin: 0 0 0 10px;
+}
+.pointer{
+    cursor: pointer;
+}
+a{
+    text-decoration: none;!important;
+}
+.menu-bthn{
+    display: inline-block;
+    float: right;
+}
+
+.home {
+    margin-top: 150px;
+    margin-bottom: 250px;
+    display: block;
+}
+
+.color-white-for-titles {
+    color: white;
+    font-weight: 900;
+    font-size: 65px;
+    line-height: 1;
+}
+
+.display-in{
+    display: inline-block;
+}
+
+.hei {
+    height: 390px;
+    border-bottom: 2px solid #282828;
+}
+
+.astron {
+    width: 430px;
+    height: 390px;
+}
+
+.btnh {
+    margin-top: 40px;
+    background-color: rgb(15, 51, 255);
+    color: white;
+    padding: 5px 17px 5px 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+
+
+.main-color{
+  color: #282828;
+}
+
+
+.main-color .lol{
+    display: block;
+}
+
+.main-color .lol:hover{
+    color: white;
+}
+
+.main-size{
+    font-size: 24px;
+}
+
+.btnh2{
+    display: none;
+    background-color: rgb(15, 51, 255);
+    color: white;
+    padding: 5px 17px 5px 12px;
+    font-weight: 700;
+    width:6%;
+}
+
+.the-woman {
+    right: 87px;
+}
+
+.containe{
+    max-width: 868px;
+}
+
+.sdbtn{
+
+}
+
+.pur-people {
+    color: white;
+    font-size: 14px;
+    display: none;
+}
+.womans-img{
+
+}
+
+
+.table-dark {
+    color: #fff;
+    background-color: #0c0c0c;
+}
+
+
+
+.btnX {
+    display: inline-block;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    font-size: 30px;
+    width: 10%;
+    float: right;
+}
+
+
+#our-best-workers{
+    float: left;
+}
+
+.career-button{
+    display: inline-block;
+}
+
+.our-programmers{
+    margin-bottom: 20px;
+}
+
+.name-of-secs{
+    margin-bottom: 0px;
+}
+
+
+.career{
+    margin-top: 100px;
+    margin-bottom: 170px;
+}
+
+.special-words{
+ margin-top: 50px;
+}
+
+.special-imgs-attr {
+    margin: 20px;
+    display: inline-block;
+    width: 170px;
+    height: 90px;
+    text-decoration: none;
+    color: #fff;
+    border: 10px solid #0f33ff;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.career-btn {
+    color: white;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 19px;
+    font-size: 19px;
+    background-color: rgb(15, 51, 255);
+    padding: 4px 9px 5px 7px;
+    width: 93px;
+    text-transform: uppercase;
+}
+
+
+
+.winners {
+    background-image: url("../img/3.jpg");
+}
+.philosophy{
+    background-image: url("../img/5.jpg");
+}
+.history{
+    background-image: url("../img/1.jpg");
+}
+
+.special-text{
+    color: white;
+    position: absolute;
+    font-weight: 700;
+    bottom: 14%;
+}
+
+/*//////////////////////////////////////*/
+
+.location-of-our-studio{
+    margin-top: 150px;
+
+}
+
+.footer{
+ margin-top: 150px;
+}
+
+/*//////////////////////////////////////////////////*/
+
+
+.contact--lockup {
+    height: 445px;
+    background-color: #0c0c0c;
+    box-shadow: 0 0 30px 0 rgba(0,0,0,0.75);
+}
+
+.map-new{
+    width: 510px;
+    box-shadow: 0 0 30px 0 rgba(0,0,0,0.75);
+    height: 445px;
+}
+
+
+.data-modal {
+    padding: 50px;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.modal-options{
+
+}
+
+
+/*.display-bl{*/
+/*    display: block;*/
+/*    color: white;*/
+/*}*/
+.modal--information{
+    font-size: 20px;
+}
+
+.modal--information a {
+    display: block;
+    margin: 14px 0;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+}
+.modal--information p {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+}
+
+.bw{
+    padding: 15px;
+}
+.bps{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.b-options{
+    display: block;
+    margin:  0 auto;
+}
+
+.ssd{
+max-width: 400px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+
+
+
+.behance{
+    background-color:#1769ff;
+}
+
+.dribbble{
+    background-color:#ea4c89;
+    border-color: #ea4c89;
+
+}
+.Contact-Us{
+    background-color:#0f33ff;
+    border-color:#0f33ff;
+}
+
+.send-request {
+    background-color: #0f33ff;
+    border-color: #0f33ff;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    margin-top: 10px;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    margin-bottom: 30px;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.btcs {
+    width: 125px;
+    height: 40px;
+    border: 1px solid silver;
+    background-color: #0c0c0c;
+    color: white;
+    font-weight: 200;
+    margin: 6px;
+}
+
+
+.reges{
+    width: 220px;
+    border-bottom: 2px solid silver;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    background-color: #0c0c0c;
+    padding: 5px;
+    color: white;
+    font-weight: 200;
+    margin: 20px;
+}
+
+.work-request{
+    text-align: center;
+}
+
+
+.hire h2 {
+    margin: 0 0 20px 0;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-weight:700;
+}
+
+.min-hint{
+    display: none;
+}
+
+.color-white-for-titles2{
+    color: white;
+    font-weight: 900;
+    font-size: 65px;
+    line-height: 1;
+    margin: 46px 0 0 0px;
+}
+
+.m{
+    text-align: center;
+}
+
+.your-next-inr-exp-mobile{
+    padding: 45px;
+    display: none;
+}
+
+
+
+
+@media only screen and (max-width: 991px) {
+    .astron {
+        width: 329px;
+        height: 329px;
+    }
+    .your-next-inr-exp {
+        padding: 20px 0px 0px 13px;
+    }
+    .the-woman {
+        width: 328px;
+        height: 420px;
+    }
+    .color-white-for-titles2 {
+        color: white;
+        font-weight: 900;
+        font-size: 50px;
+        line-height: 1;
+       margin: 0px;
+    }
+    .map-new {
+        width: 325px;
+        box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.75);
+        height: 370px;
+    }
+    .contact--lockup {
+        height: 370px;
+        background-color: #0c0c0c;
+        box-shadow: 0 0 30px 0 rgba(0,0,0,0.75);
+    }
+    .data-modal {
+        padding: 13px;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .astron {
+        width: 240px;
+        height: 280px;
+    }
+
+    .lockups-shape {
+        margin: auto;
+        text-align: center;
+        width: 270px;
+    }
+
+    .color-white-for-titles {
+        color: white;
+        font-weight: 900;
+        font-size: 47px;
+        line-height: 1;
+    }
+    .btnh {
+        margin-top: 18px;
+        background-color: rgb(15, 51, 255);
+        color: white;
+        padding: 5px 17px 5px 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+    .color-white-for-titles2 {
+        color: white;
+        font-weight: 900;
+        font-size: 39px;
+        line-height: 1;
+        margin: 0px;
+    }
+    .the-woman {
+        width: 268px;
+        height: 370px;
+    }
+
+    .map-new {
+        width: 249px;
+        box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.75);
+        height: 382px;
+        margin-bottom: 10px;
+    }
+
+    .contact--lockup {
+        height: 382px;
+        background-color: #0c0c0c;
+        box-shadow: 0 0 30px 0 rgba(0,0,0,0.75);
+
+    }
+    .data-modal {
+        padding: 20px 0px 0px 0px;
+        width: 100%;
+        height: 100%;
+    }
+
+
+}
+
+@media only screen and (max-width: 575px) {
+
+    .career {
+         margin:0px;
+    }
+    .womans-img {
+        display: none;
+    }
+
+    #row-line {
+        width: 79%;
+        margin: 0 auto;
+    }
+
+    .row-with-picks{
+        display: none;
+    }
+
+    .footer{
+        margin:0px;
+    }
+
+    .your-next-inr-exp-mobile{
+        padding: 45px;
+        display: block;
+    }
+
+    .m-version {
+        display: block;
+        color: white;
+        width: 63%;
+        font-weight: 700;
+        margin: 0 auto;
+    }
+    .our-purpouse2 {
+        display: block;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .contact-us2{
+        display: block;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .about-us2{
+        display: block;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .home {
+        display: block;
+        margin: 20px;
+    }
+
+    .hire-us {
+        border: none;
+        margin-top: 40px;
+    }
+
+    .lockups-shape {
+        display: none;
+    }
+
+    .pur-people {
+        color: white;
+        font-size: 14px;
+        display: block;
+    }
+
+    #our-best-workers {
+        float: none;
+    }
+
+    .astron {
+        display: none;
+    }
+    .hire-us {
+        border: none;
+    }
+    .your-next-inr-exp {
+      display: none;
+    }
+    .color-white-for-titles {
+        color: white;
+        font-weight: 900;
+        font-size: 60px;
+        line-height: 1;
+    }
+    .btnh {
+        margin-top: 18px;
+        background-color: rgb(15, 51, 255);
+        color: white;
+        padding: 10px 22px 10px 17px;
+        font-weight: 700;
+        text-transform: uppercase;
+        display: none;
+    }
+
+    .our-purpouse {
+        color: white;
+        text-align: left;
+        font-weight: 700;
+        width: 58%;
+        margin: 0 auto;
+    }
+
+    .contact-us {
+        color: white;
+        text-align: left;
+        font-weight: 700;
+        margin: 0 auto;
+        width: 59%;
+    }
+
+    .about-us {
+        color: white;
+        text-align: left;
+        font-weight: 700;
+        width: 60%;
+        margin: 0 auto;
+    }
+
+    .the-woman{
+        margin-right:5%;
+        display: none;
+    }
+    .m{
+        text-align: center;
+    }
+
+    .map-new {
+        width: 400px;
+        box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.75);
+        height: 400px;
+        margin-bottom: 10px;
+    }
+    .contact--lockup {
+        height: 400px;
+        text-align: center;
+        background-color: #0c0c0c;
+        box-shadow: 0 0 30px 0 rgba(0,0,0,0.75);
+    }
+    .location-of-our-studio {
+        margin-top: 35px;
+    }
+
+
+
+}
+
+@media only screen and (max-width: 483px) {
+    .astron {
+        width: 400px;
+        margin-left: 1%;
+        height: 390px;
+    }
+    .contact--lockup {
+        height: 400px;
+        background-color: #0c0c0c;
+        box-shadow: 0 0 30px 0 rgba(0,0,0,0.75);
+    }
+    .lockups-shape {
+        margin: auto;
+        text-align: center;
+        width: 291px;
+    }
+}
+
+@media only screen and (max-width: 424px) {
+
+    .astron {
+        width: 350px;
+        height: 350px;
+        margin: 0;
+    }
+
+
+    .contact--lockup {
+        height: 400px;
+        background-color: #0c0c0c;
+        box-shadow: 0 0 30px 0 rgba(0,0,0,0.75);
+    }
+    .map-new {
+        width: 300px;
+        box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.75);
+        height: 400px;
+        margin-bottom: 10px;
+    }
+}
+
+@media only screen and (max-width: 372px) {
+
+    .color-white-for-titles2 {
+        color: white;
+        font-weight: 900;
+        font-size: 33px;
+        line-height: 1;
+        margin-top: 5px;
+    }
+
+    .astron {
+        width: 300px;
+        height: 300px;
+        margin: 0;
+    }
+
+    .color-white-for-titles {
+        color: white;
+        font-weight: 900;
+        font-size: 55px;
+        line-height: 1;
+    }
+    .btnh{
+        margin-top: 18px;
+        background-color: rgb(15, 51, 255);
+        color: white;
+        padding: 5px 17px 5px 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+    .contact--lockup {
+        height: 400px;
+        background-color: #0c0c0c;
+        box-shadow: 0 0 30px 0 rgba(0,0,0,0.75);
+
+    }
+
+}
+
+@media only screen and (max-width: 325px) {
+
+    .astron {
+        width: 250px;
+        height: 250px;
+        margin-left: 15px;
+    }
+
+    .custom-switch {
+         padding-left: 0px;
+    }
+    .custom-control {
+        position: relative;
+        display: block;
+        min-height: 1.5rem;
+         padding-left: 0px;
+    }
+
+    .color-white-for-titles {
+        color: white;
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 1;
+    }
+    .btnh{
+        margin-top: 18px;
+        background-color: rgb(15, 51, 255);
+        color: white;
+        padding: 5px 17px 5px 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+    .map-new {
+        width: 250px;
+        box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.75);
+        height: 400px;
+        margin-bottom: 10px;
+    }
+    .contact--lockup {
+        height: 400px;
+        background-color: #0c0c0c;
+        box-shadow: 0 0 30px 0 rgba(0,0,0,0.75);
+    }
+    .btcs {
+        width: 95px;
+        height: 40px;
+        border: 1px solid silver;
+        background-color: #0c0c0c;
+        color: white;
+        font-weight: 200;
+        margin: 6px;
+        font-size: 12px;
+    }
+    .lockups-shape {
+        margin: auto;
+        text-align: center;
+        width: 257px;
+    }
+
+}
+
+@media only screen and (max-width: 279px) {
+
+    .astron {
+        width: 200px;
+        height: 200px;
+        margin-left: 15px;
+    }
+
+    .color-white-for-titles2 {
+        color: white;
+        font-weight: 900;
+        font-size: 33px;
+        line-height: 1;
+        margin-top: 5px;
+    }
+}
+
+@media only screen and (max-width: 238px) {
+
+    .astron {
+        width: 150px;
+        height: 150px;
+
+    }
+
+    .btnh {
+        margin-top: 5px;
+        background-color: rgb(15, 51, 255);
+        color: white;
+        padding: 3px 13px 3px 11px;
+        font-weight: 700;
+        text-transform: uppercase;
+        margin-bottom: 11px;
+    }
+    .color-white-for-titles {
+        color: white;
+        font-weight: 900;
+        font-size: 33px;
+        line-height: 1;
+        margin-top: 6px;
+    }
+    .color-white-for-titles2 {
+        color: white;
+        font-weight: 900;
+        font-size: 30px;
+        line-height: 1;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+}
+
